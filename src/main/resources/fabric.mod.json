@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "createcobblemonbrews",
+	"version": "${version}",
+	"name": "CreateCobblemonBrews",
+	"description": "Adds fluid versions of Cobblemon bottled medicines and recipes to craft them in heated mixers.",
+	"authors": [
+		"LucasTheDrgn"
+	],
+	"contact": {
+		"homepage": "https://twitter.com/LucasTheDrgn/"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/createcobblemonbrews/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.lucasthedrgn.createcobblemonbrews.CreateCobblemonBrews"
+		],
+		"client": [
+			"net.lucasthedrgn.createcobblemonbrews.CreateCobblemonBrewsClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.15",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

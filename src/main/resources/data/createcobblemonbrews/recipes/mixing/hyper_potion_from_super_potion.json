@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"heatRequirement": "heated",
+	"ingredients": [
+		{
+			"fluid": "createcobblemonbrews:super_potion",
+			"amount": 81000
+		},
+		{
+			"tag": "createcobblemonbrews:upgrades_super_potion"
+		}
+	],
+	"results": [
+		{
+			"fluid": "createcobblemonbrews:hyper_potion",
+			"amount": 81000
+		}
+	]
+}

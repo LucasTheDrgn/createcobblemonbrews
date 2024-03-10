@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"heatRequirement": "heated",
+	"ingredients": [
+		{
+			"fluid": "createcobblemonbrews:medicinal_brew",
+			"amount": 81000
+		},
+		{
+			"item": "cobblemon:leppa_berry"
+		}
+	],
+	"results": [
+		{
+			"fluid": "createcobblemonbrews:ether",
+			"amount": 81000
+		}
+	]
+}

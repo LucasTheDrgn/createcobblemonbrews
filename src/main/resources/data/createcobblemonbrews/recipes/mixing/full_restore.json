@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"heatRequirement": "heated",
+	"ingredients": [
+		{
+			"fluid": "createcobblemonbrews:max_potion",
+			"amount": 81000
+		},
+		{
+			"item": "cobblemon:lum_berry"
+		}
+	],
+	"results": [
+		{
+			"fluid": "createcobblemonbrews:full_restore",
+			"amount": 81000
+		}
+	]
+}

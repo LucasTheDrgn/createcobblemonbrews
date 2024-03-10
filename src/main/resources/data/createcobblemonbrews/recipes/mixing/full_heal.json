@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"heatRequirement": "heated",
+	"ingredients": [
+		{
+			"fluidTag": "createcobblemonbrews:upgrades_to_full_heal",
+			"amount": 81000
+		},
+		{
+			"item": "cobblemon:lum_berry"
+		}
+	],
+	"results": [
+		{
+			"fluid": "createcobblemonbrews:full_heal",
+			"amount": 81000
+		}
+	]
+}

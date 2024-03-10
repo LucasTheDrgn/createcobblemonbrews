@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"heatRequirement": "heated",
+	"ingredients": [
+		{
+			"fluid": "createcobblemonbrews:medicinal_brew",
+			"amount": 81000
+		},
+		{
+			"item": "cobblemon:hopo_berry"
+		}
+	],
+	"results": [
+		{
+			"fluid": "createcobblemonbrews:elixir",
+			"amount": 81000
+		}
+	]
+}

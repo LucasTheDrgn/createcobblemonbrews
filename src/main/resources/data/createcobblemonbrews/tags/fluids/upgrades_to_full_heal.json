@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "createcobblemonbrews:medicinal_brew",
+    "createcobblemonbrews:burn_heal",
+    "createcobblemonbrews:antidote",
+    "createcobblemonbrews:awakening",
+    "createcobblemonbrews:ice_heal",
+    "createcobblemonbrews:paralyze_heal"
+  ]
+}

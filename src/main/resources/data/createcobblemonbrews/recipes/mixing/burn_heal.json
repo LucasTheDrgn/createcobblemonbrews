@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"heatRequirement": "heated",
+	"ingredients": [
+		{
+			"fluid": "createcobblemonbrews:medicinal_brew",
+			"amount": 81000
+		},
+		{
+			"item": "cobblemon:rawst_berry"
+		}
+	],
+	"results": [
+		{
+			"fluid": "createcobblemonbrews:burn_heal",
+			"amount": 81000
+		}
+	]
+}
